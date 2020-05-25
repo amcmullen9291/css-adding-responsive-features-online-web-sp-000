@@ -1,4 +1,10 @@
-@media width-max: 1100px 
+@media (width-max: 1100px){
 .wrapper { 
  width: 90%;
+}
+}
+
+#social {
+  position: absolute;
+  width
 }
