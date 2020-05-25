@@ -56,6 +56,10 @@
   }
 }
 
+@media(width-max:700px){
+  
+}
+
 #social {
   position: absolute;
   right: 4px;
