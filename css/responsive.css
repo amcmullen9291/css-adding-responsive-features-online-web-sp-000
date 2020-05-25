@@ -57,7 +57,7 @@
 }
 
 @media(width-max:700px){
-  nav{
+  #navbar{
     display:none;
   }
 }
