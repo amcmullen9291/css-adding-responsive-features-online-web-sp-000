@@ -57,7 +57,9 @@
 }
 
 @media(width-max:700px){
-  
+  nav{
+    display:none;
+  }
 }
 
 #social {
